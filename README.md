@@ -1,7 +1,7 @@
 # cmpe297 final project
 ## Building a recommender system using graph neural network
 </br>
-------------
+---------------</br>
 </br>
 In this project, we'll build a recommender system using different approaches(popular-based approach, collaborative filtering approach, and graph neural network approach). 
 </br>
