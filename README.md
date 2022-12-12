@@ -13,7 +13,7 @@ The dataset
 
 The dataset we used is the Movielens dataset. The MovieLens datasets are widely used in machine learning. These datasets are a product of member activity in the MovieLens movie recommendation system. Datasets for building a recommender system often contain users' data and items' data. We can merge two datasets to get a user-item interaction dataset. The user-item interaction dataset contains information on users and their preferred items. We can use user-item interaction to create a connection between users and their preferred items. In a graph network, we can see these connections between users and items as a connection between nodes to nodes. 
 </br>
-![image](https://user-images.githubusercontent.com/32551600/206972619-e0ffe3a2-5c07-425f-b526-b3d15fa6c671.png)
+![image](https://user-images.githubusercontent.com/32551600/206972619-e0ffe3a2-5c07-425f-b526-b3d15fa6c671.png) </br>
 Since the user dataset and item dataset has their own features, each node in a graph would also have features. Each node's features are a message. Every time we forward or receive a message indicates a connection between users to items. Therefore, if we try to find a connection that exists for a user or not, we can perform link prediction. Based on link connections, we can perform recommendations. </br>
 </br>
 Colab Link: https://colab.research.google.com/drive/1xBnc36PJ_d82BS01plDYwPomoqQL0ojU#scrollTo=5b7f792e </br>
