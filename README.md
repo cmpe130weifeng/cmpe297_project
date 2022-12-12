@@ -7,7 +7,11 @@ In this project, we'll build a recommender system using different approaches(pop
 
 ![image](https://user-images.githubusercontent.com/32551600/206965130-c08d742d-3abb-4d4f-ab8c-1c4834a3116e.png)
 The general idea of using graphs as a general network architecture for recommendation systems involves two key steps: graph encoding and bilinear decoding. Graph encoding is the process to convert data to embedding so that the system can use embeddings to calculate similarity among items. Bilinear decoding is used to predict a connection between nodes.; therefore, we perform link/edge prediction on a graph. A link/edge represents a connection between a user and item(s). If we can predict a link, we can perform recommendations to users. This is how a graph neural network works in recommender systems. </br>
+The dataset
 </br>
+![image](https://user-images.githubusercontent.com/32551600/206971731-55c67468-817e-4c05-8aec-68bf36877f84.png)
+
+The dataset we used is the Movielens dataset. The MovieLens datasets are widely used in machine learning. These datasets are a product of member activity in the MovieLens movie recommendation system. Datasets for building a recommender system often contain users' data and items' data. We can merge two datasets to get a user-item interaction dataset. The user-item interaction dataset contains information on users and their preferred items. We can use user-item interaction to create a connection between users and their preferred items. In a graph network, we can see these connections between users and items as a connection between nodes to nodes. 
 </br>
 Colab Link: https://colab.research.google.com/drive/1xBnc36PJ_d82BS01plDYwPomoqQL0ojU#scrollTo=5b7f792e </br>
 </br>
