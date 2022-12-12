@@ -11,9 +11,10 @@ The general idea of using graphs as a general network architecture for recommend
 </br>
 Colab Link: https://colab.research.google.com/drive/1xBnc36PJ_d82BS01plDYwPomoqQL0ojU#scrollTo=5b7f792e </br>
 </br>
+</br>
 Article reference: </br>
 [1] Wu, Zonghan, et al, A comprehensive survey on graph neural networks (2020), IEEE transactions on neural networks and learning systems 32.1 (2020): 4–24. </br>
 </br>
 Image reference: </br>
-[1] https://towardsdatascience.com/graph-neural-network-gnn-architectures-for-recommendation-systems-7b9dd0de0856#:~:text=GNNs%20for%20recommendation,-Recommendation%20systems%20are&text=Recommendations%20are%20drawn%20from%20the,item%20past%20interactions.
-[2] https://link.springer.com/article/10.1007/s00521-020-05667-z 
+[1] https://towardsdatascience.com/graph-neural-network-gnn-architectures-for-recommendation-systems-7b9dd0de0856#:~:text=GNNs%20for%20recommendation,-Recommendation%20systems%20are&text=Recommendations%20are%20drawn%20from%20the,item%20past%20interactions. </br>
+[2] https://link.springer.com/article/10.1007/s00521-020-05667-z </br>
