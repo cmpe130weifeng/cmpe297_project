@@ -14,6 +14,7 @@ Colab Link: https://colab.research.google.com/drive/1xBnc36PJ_d82BS01plDYwPomoqQ
 </br>
 Article reference: </br>
 [1] Wu, Zonghan, et al, A comprehensive survey on graph neural networks (2020), IEEE transactions on neural networks and learning systems 32.1 (2020): 4–24. </br>
+[2] He, Xiangnan, et al. "Lightgcn: Simplifying and powering graph convolution network for recommendation." Proceedings of the 43rd International ACM SIGIR conference on research and development in Information Retrieval. 2020. </br>
 </br>
 Image reference: </br>
 [1] https://towardsdatascience.com/graph-neural-network-gnn-architectures-for-recommendation-systems-7b9dd0de0856#:~:text=GNNs%20for%20recommendation,-Recommendation%20systems%20are&text=Recommendations%20are%20drawn%20from%20the,item%20past%20interactions. </br>
