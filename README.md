@@ -36,6 +36,11 @@ Colab Link: https://colab.research.google.com/drive/1xBnc36PJ_d82BS01plDYwPomoqQ
 </br>
 Powerpoint Link: https://github.com/cmpe130weifeng/cmpe297_project/blob/main/project%20ppt.pdf </br>
 </br>
+<br/>
+### Team member contribution <br/>
+**Weifeng Ma**: GNNs based RSs, documentation, and environment set up <br/>
+**Aman Shah**: Popular based RSs, Collaborative filtering RSs <br/>
+Works are evenly distributed. Contribution is even. <br/>
 </br>
 Article reference: </br>
 [1] Wu, Zonghan, et al, A comprehensive survey on graph neural networks (2020), IEEE transactions on neural networks and learning systems 32.1 (2020): 4–24. </br>
