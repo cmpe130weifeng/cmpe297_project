@@ -28,7 +28,9 @@ $e_u^{(k)}$ : k-th layer user embedding
 
 $e_i^{(k)}$ : k-th layer item embedding
 LightGCN uses the above formula for user and item embeddings. It calculate layer combination of embeddings. The layer we selected is 3. In the demonstration, I would explain how it work in detail.
-</br>
+ </br>
+ </br>
+Full report: https://github.com/cmpe130weifeng/cmpe297_project/blob/main/Dev%26Full%20report.pdf </br>
 </br>
 Presentation Video link: https://youtu.be/6hYJ3Essu1U </br>
 </br>
