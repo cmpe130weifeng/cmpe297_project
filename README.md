@@ -44,6 +44,7 @@ Powerpoint Link: https://github.com/cmpe130weifeng/cmpe297_project/blob/main/pro
 **Aman Shah**: Popular based RSs, Collaborative filtering RSs <br/>
 Works are evenly distributed. Contribution is even. <br/>
 </br>
+### Reference
 Article reference: </br>
 [1] Wu, Zonghan, et al, A comprehensive survey on graph neural networks (2020), IEEE transactions on neural networks and learning systems 32.1 (2020): 4–24. </br>
 [2] He, Xiangnan, et al. "Lightgcn: Simplifying and powering graph convolution network for recommendation." Proceedings of the 43rd International ACM SIGIR conference on research and development in Information Retrieval. 2020. </br>
